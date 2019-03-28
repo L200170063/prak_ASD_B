@@ -2,4 +2,4 @@
 MAJID NARENDRA
 <br> L200170063
 <br>
-<marquee>Assalamualaikum wr wb</marquee>
+
